@@ -105,7 +105,7 @@ To run this game, you need to have the Godot Engine installed.
 
 -   **Game Music & SFX:** [Brackeys Platformer Bundle](https://brackeysgames.itch.io/brackeys-platformer-bundle) by Brackeys.
 -   **Fonts:** [PixelOperator8](https://godotengine.org/asset-library/asset/1985) from Godot Asset Library.
--   **Game Development:** (Your Name/Studio)
+-   **Game Development:** (Kazanaru)
 
 *Some assets in this project are not mine. All visual and audio assets taken from third parties remain under the licenses of their respective creators. Assets I created myself are free to use under the project's main license.*
 
@@ -180,11 +180,10 @@ Untuk menjalankan game ini, Anda harus sudah menginstal Godot Engine.
 
 -   **Musik Game & SFX:** [Brackeys Platformer Bundle](https://brackeysgames.itch.io/brackeys-platformer-bundle) oleh Brackeys.
 -   **Font:** [PixelOperator8](https://godotengine.org/asset-library/asset/1985) dari Godot Asset Library.
--   **Pengembang Game:** (Nama Anda/Studio)
+-   **Pengembang Game:** (Kazanaru)
 
 *Beberapa aset dalam proyek ini bukan milik saya. Semua aset visual dan audio yang diambil dari pihak ketiga tetap mengikuti lisensi masing-masing pembuatnya. Aset yang saya buat sendiri bebas digunakan mengikuti lisensi utama proyek ini.*
 
 ### 📄 Lisensi
 
 Proyek ini dilisensikan di bawah **Lisensi MIT**. Lihat file `LICENSE` untuk detail lebih lanjut."# COLLECT-EM-ALL" 
-"# COLLECT-EM-ALL" 
