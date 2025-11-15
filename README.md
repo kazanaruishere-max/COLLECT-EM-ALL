@@ -187,3 +187,4 @@ Untuk menjalankan game ini, Anda harus sudah menginstal Godot Engine.
 ### 📄 Lisensi
 
 Proyek ini dilisensikan di bawah **Lisensi MIT**. Lihat file `LICENSE` untuk detail lebih lanjut."# COLLECT-EM-ALL" 
+"# COLLECT-EM-ALL" 
